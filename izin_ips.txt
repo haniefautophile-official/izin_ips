@@ -1,6 +1,5 @@
 ### IP | CLIENT_NAME | EXPIRY
-### ZiVPN lifetime 103.148.195.198
-### haniefautophile lifetime 38.47.180.23
-### ZiVPN lifetime 103.150.227.86
-### 103.150.227.86 Hanief_Autophile 2026-12-31
-### 103.150.227.86 ZiVPN lifetime
+103.148.195.198 ZiVPN lifetime
+38.47.180.23 haniefautophile lifetime
+103.150.227.86 Hanief_Autophile 2026-12-31
+
