@@ -1,5 +1,3 @@
 ### user|exp|ip
-### ZiVPN lifetime 202.155.132.98
-### ZiVPN lifetime 38.47.180.23
+### ZiVPN lifetime 113.29.230.95
 ### ZiVPN lifetime 103.150.227.86
-### ZiVPN lifetime 103.150.196.104
