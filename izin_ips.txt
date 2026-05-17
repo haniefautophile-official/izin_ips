@@ -4,3 +4,4 @@
 ### ZiVPN lifetime 103.241.24.125
 ### ZiVPN lifetime 206.237.98.207
 ### ZiVPN lifetime 15.235.182.106
+### ZiVPN lifetime 10.10.45.249
